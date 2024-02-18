@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Assignment04</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="demographic_info">Demographic Info</string>
+    <string name="education">Education:</string>
+    <string name="marital_status">Marital Status:</string>
+    <string name="living_status">Living Status:</string>
+    <string name="income">Income:</string>
+    <string name="n_a">N/A</string>
+    <string name="role">Role:</string>
+    <string name="email">Email:</string>
+    <string name="student">Student</string>
+    <string name="identification_info">Identification Info</string>
+    <string name="name">Name:</string>
+    <string name="employee">Employee</string>
+    <string name="other">Other</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="profile">Profile</string>
+    <string name="select_education_level">Select Education Level</string>
+    <string name="cancel">Cancel</string>
+    <string name="below_high_school">Below High School</string>
+    <string name="bachelor_s_degree">Bachelor\'s Degree</string>
+    <string name="high_school">High School</string>
+    <string name="master_s_degree">Master\'s Degree</string>
+    <string name="ph_d_or_higher">Ph.D. or higher</string>
+    <string name="prefer_not_to_say">Prefer not to say</string>
+    <string name="trade_school">Trade School</string>
+    <string name="what_is_the_highest_degree_or_level_of_education_you_have_completed">What is the highest degree or level of education you have completed?</string>
+    <string name="household_income">Household Income</string>
+    <string name="home_owner">Home Owner</string>
+    <string name="lessee">Lessee</string>
+    <string name="renter">Renter</string>
+    <string name="which_of_the_following_describes_your_living_status">Which of the following describes your living status?</string>
+    <string name="married">Married</string>
+    <string name="not_married">Not Married</string>
+    <string name="select_marital_status">Select Marital Status</string>
+    <string name="what_is_your_marital_status">What is your marital status ?</string>
+</resources>
